@@ -1,2 +1,1 @@
-# tinDog
-Tinder for dogs!!! (Boot camp project)
+TinDog Starting Files
